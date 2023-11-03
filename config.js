@@ -12,4 +12,5 @@ module.exports={
         ip:config.serverIp,
         port:config.serverPort,
     },
+    tokenSecret:"foodelivery_secret"
 };
